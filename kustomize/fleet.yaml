@@ -1,0 +1,4 @@
+namespace: fleet-error
+
+kustomize:
+  dir: ""
